@@ -6,7 +6,7 @@
 ░░░██║░░░██║╚█████╔╝  ░░░██║░░░██║░░██║╚█████╔╝  ░░░██║░░░╚█████╔╝███████╗
 ░░░╚═╝░░░╚═╝░╚════╝░  ░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░  ░░░╚═╝░░░░╚════╝░╚══════╝
 ```
-TicTacToe that can be played in the terminal.
+TicTacToe that can be played in the terminal locally for 2 players.
 
 Example of the finished game.
 ```java
